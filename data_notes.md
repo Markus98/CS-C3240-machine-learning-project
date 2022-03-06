@@ -1,0 +1,35 @@
+# Fitbit available data
+- Other:
+  - Oxygen variation estimation of sleep
+- Personal & Activity:
+  - weight
+  - height
+- Physical activity:
+  - Active Zone Minutes
+  - Altitude
+  - Calories
+  - VO2 max
+  - run VO2 max
+  - distance
+  - exercises
+  - heartrate
+  - time in hear rate zones
+  - resting heartrate of day
+  - active minutes
+    - lightly active minutes per day
+    - moderately active minutes per day
+    - very active minutes per day
+    - sedentary minutes per day
+  - steps
+  - swimming lengths data
+- Sleep:
+  - hand temperature per night
+  - daily heart rate variability
+    - Heart rate variability 5 min granularity
+  - daily respiratory rate
+    - summary
+  - daily SpO2
+  - sleep scores
+  - sleep data
+- Stress:
+  - Stress Score
